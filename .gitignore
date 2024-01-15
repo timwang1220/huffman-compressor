@@ -1,0 +1,4 @@
+*.tim
+.vscode/
+testcases/
+testcases.zip
